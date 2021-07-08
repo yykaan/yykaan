@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @yykaan
+- 👋 Hi, I’m Kaan Yılmaz
+- Java Backend Developer
+   - Spring Boot
+   - Hibernate
+   - MySql
+   
+🎓 Learning Microservice Architecture..
+
 - 📫 yyilmazkaan@gmail.com
 
 <!---
