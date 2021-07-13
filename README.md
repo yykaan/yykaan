@@ -2,7 +2,6 @@
 - Java Backend Developer
    - Spring Boot
    - Hibernate
-   - MySql
    
 🎓 Learning Microservice Architecture..
 
