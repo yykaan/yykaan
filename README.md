@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Kaan Yılmaz
-- Java Backend Developer
-   
-🎓 Learning Microservice Architecture
+- Java/Kotlin Backend Developer
 
 - 📫 yyilmazkaan@gmail.com
 
